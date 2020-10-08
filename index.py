@@ -5,6 +5,8 @@ from dotenv import load_dotenv
 from discord.ext import commands
 
 load_dotenv()
+TOKEN = 'NzU1MzIyNjU3NzQ1OTI4Mjgy.X2BnCg.d-x2wbw9EYYObV4-xgnCfPCF4F0'
+
 GUILD = 'Sayonara Ｇouki'
 
 
